@@ -9,23 +9,23 @@ class Player
     private:
         Card m_one;
         Card m_two;
-
+        std::vector<Card> m_cards;
         std::string m_name;
 
     public:
         Player(const std::string name):m_name{name}{}
 
-        void addHand(Card one, Card two)
+        void addHand(Card one)
         {
-            m_one.setCard(one.getSuit(), one.getValue());
-            m_two.setCard(two.getSuit(), two.getValue());
+            //m_one.setCard(one.getSuit(), one.getValue());
+            //m_two.setCard(two.getSuit(), two.getValue());
+            m_cards.push_back(one);
+            //m_cards.push_back(two);
         }
 
         Card getHand(int i)
         {
-            if(i==1){return m_one;}
-            else if(i==2){return m_two;}
-            else{return Card('N', 'N');}
+            return m_cards[i];
         }
 
         std::string getName(){return m_name;}

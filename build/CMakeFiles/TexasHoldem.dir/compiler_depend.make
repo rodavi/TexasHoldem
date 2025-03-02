@@ -157,7 +157,16 @@ CMakeFiles/TexasHoldem.dir/main.cpp.obj: ../main.cpp \
   E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/pstl/glue_algorithm_defs.h \
   E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/pstl/execution_defs.h \
   E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/ctime \
-  ../Deck.hpp
+  ../Deck.hpp \
+  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/map \
+  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_tree.h \
+  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/ext/aligned_buffer.h \
+  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/node_handle.h \
+  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_map.h \
+  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tuple \
+  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/uses_allocator.h \
+  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_multimap.h \
+  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/erase_if.h
 
 
 E:/mingw32/i686-w64-mingw32/include/limits.h:
@@ -200,6 +209,8 @@ E:/mingw32/i686-w64-mingw32/include/locale.h:
 
 E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stringfwd.h:
 
+E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_map.h:
+
 E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/clocale:
 
 E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/memoryfwd.h:
@@ -229,6 +240,8 @@ E:/mingw32/i686-w64-mingw32/include/pthread_signal.h:
 E:/mingw32/i686-w64-mingw32/include/vadefs.h:
 
 E:/mingw32/i686-w64-mingw32/include/corecrt_wstdlib.h:
+
+E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/ext/aligned_buffer.h:
 
 E:/mingw32/i686-w64-mingw32/include/_mingw_off_t.h:
 
@@ -274,6 +287,8 @@ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/hash_bytes.h:
 
 E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/new:
 
+E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/node_handle.h:
+
 E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/cctype:
 
 E:/mingw32/i686-w64-mingw32/include/_timeval.h:
@@ -289,6 +304,8 @@ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/ext/string_conversions.h:
 E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/char_traits.h:
 
 E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/cstdint:
+
+E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_multimap.h:
 
 E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include-fixed/syslimits.h:
 
@@ -473,3 +490,13 @@ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/uniform_int_dist.h:
 E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/pstl/execution_defs.h:
 
 ../Deck.hpp:
+
+E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/map:
+
+E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_tree.h:
+
+E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tuple:
+
+E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/uses_allocator.h:
+
+E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/erase_if.h:
